@@ -1,0 +1,55 @@
+h1{
+    
+}
+.common{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+}
+
+ol{
+    list-style-position: inside;
+    text-align:center;
+    display: inline-block;
+    padding-left: 0;
+    margin: 0 auto;
+}
+
+ul{
+    text-align: justify;
+    list-style-position: inside;
+
+}
+
+li{
+    text-align: justify;
+}
+
+.header{
+    background-color: darkslategrey;
+    color: white;
+    height:100px;
+    line-height: 100px;
+    padding-bottom: 0px;
+
+}
+
+body{
+    background-color: beige;
+}
+
+.imag{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+.link{
+    padding-right: 2%;
+    size: 30px;
+}
+
+.top{
+text-align: center;
+}
